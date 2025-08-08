@@ -47,12 +47,12 @@ Server: Node server (local or hosted)
 
 
 Screenshot:
-(![page 1](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%201.png))
-(![page 2](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%203.png)
-(![page 7](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image2.png)
-(![page 4](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%205.png)
-(![page 5](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%206.png)
-(![page 6](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%208%20(2).png)
+![page 1](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%201.png)
+![page 2](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%203.png)
+![page 7](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image2.png)
+![page 4](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%205.png)
+![page 5](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%206.png)
+![page 6](https://github.com/vasunthraa325/MYBUS-PROJECT/blob/main/Images/Image%208%20(2).png)
 
 
 
