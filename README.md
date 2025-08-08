@@ -17,44 +17,31 @@ There will be Three main Actors or Users of the application
 There are three main actors of the system who will manage or interact with the application. Let’s discuss one by one according to their roles and responsibilities.
 
 # Modules
-# Admin
-Admin is the primary actor who will be responsible for managing bus operators, routes, and schedules. Below is the task list which will be performed by admin.
+## Admin
+* Admin is the primary actor who will be responsible for managing bus operators, routes, and schedules. Below is the task list which will be performed by admin.
+* Admin can ADD/DELETE/UPDATE bus routes.
+* Admin can ADD/DELETE/UPDATE bus schedules.
+* Admin can ADD/DELETE/UPDATE bus operators.
+* Admin can VIEW all bookings.
+* Admin can VIEW route statistics.
 
-Admin can ADD/DELETE/UPDATE bus routes.
-
-Admin can ADD/DELETE/UPDATE bus schedules.
-
-Admin can ADD/DELETE/UPDATE bus operators.
-
-Admin can VIEW all bookings.
-
-Admin can VIEW route statistics.
-
-# Bus Operator:
-Bus operator can VIEW the daily route list.
-
-Bus operator can UPDATE the live location of the bus.
-
-Bus operator can VIEW the list of passengers for the day.
+## Bus Operator:
+* Bus operator can VIEW the daily route list.
+* Bus operator can UPDATE the live location of the bus.
+* Bus operator can VIEW the list of passengers for the day.
 
 # Passenger/User:
-Passenger can SEARCH buses by source, destination, and date.
-
-Passenger can VIEW available buses and seats.
-
-Passenger can BOOK tickets online.
-
-Passenger can VIEW their booking history.
+* Passenger can SEARCH buses by source, destination, and date.
+* Passenger can VIEW available buses and seats.
+* Passenger can BOOK tickets online.
+* Passenger can VIEW their booking history.
 
 # Technology
 Technology used in the Smart Bus Scheduling and Automation System project:
 
 Front-End: HTML, CSS, JavaScript
-
 Server-side: Node.js (Express)
-
 Back-end: MySQL
-
 Server: Node server (local or hosted)
 
 
