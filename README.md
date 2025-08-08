@@ -1,4 +1,4 @@
-# SmartBusSchedulingAndAutomationSystem
+# Smart Bus Scheduling And Automation System
 Smart Bus Scheduling and Automation System project using HTML, CSS, JavaScript, Node.js, and MySQL. This is a full-stack web application that automates the public transportation system. The application helps users to track buses live, book tickets, and view bus timings. The backend uses Node.js and MySQL, and the frontend is designed using HTML, CSS, and JavaScript.
 
 The application ensures smart and efficient travel experiences for passengers while providing control to admin and operators over route and schedule management.
